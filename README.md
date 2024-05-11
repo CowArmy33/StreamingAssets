@@ -1,0 +1,2 @@
+# What is this repo?
+This repo simply contains all of the current up to date Logos, and the up to date clubs.json to be used with my "Slapshot Remix" tool. The best way to use this repository is to clone it into the slapshot streaming assets folder and then you can just run a pull command in order to update everything. Otherwise, you can just download the repository and manually copy everything in by hand. However, cloning is definitely way easier to manage in the future.

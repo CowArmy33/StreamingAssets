@@ -1,0 +1,442 @@
+[
+	{
+		"key": "QPR",
+		"acronym": "QPR",
+		"name": "QPR",
+		"logo": "Logos/QPR.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#c27c0e",
+				"secondary": "#c27c0e",
+				"scorebug": "#c27c0e",
+				"nametag": "#c27c0e"
+			},
+			"away": {
+				"primary": "#c27c0e",
+				"secondary": "#c27c0e",
+				"scorebug": "#c27c0e",
+				"nametag": "#c27c0e"
+			}
+		}
+	},
+	{
+		"key": "SG",
+		"acronym": "SG",
+		"name": "Sydney Gafs",
+		"logo": "Logos/Sydney Gafs.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#3d98ec",
+				"secondary": "#3d98ec",
+				"scorebug": "#3d98ec",
+				"nametag": "#3d98ec"
+			},
+			"away": {
+				"primary": "#3d98ec",
+				"secondary": "#3d98ec",
+				"scorebug": "#3d98ec",
+				"nametag": "#3d98ec"
+			}
+		}
+	},
+	{
+		"key": "TDH",
+		"acronym": "TDH",
+		"name": "10 Dead Horses",
+		"logo": "Logos/10 Dead Horses.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#cc2323",
+				"secondary": "#cc2323",
+				"scorebug": "#cc2323",
+				"nametag": "#cc2323"
+			},
+			"away": {
+				"primary": "#cc2323",
+				"secondary": "#cc2323",
+				"scorebug": "#cc2323",
+				"nametag": "#cc2323"
+			}
+		}
+	},
+	{
+		"key": "FPH",
+		"acronym": "FPH",
+		"name": "Fat Prostate Horses",
+		"logo": "Logos/Fat Prostate Horses.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#fcc762",
+				"secondary": "#fcc762",
+				"scorebug": "#fcc762",
+				"nametag": "#fcc762"
+			},
+			"away": {
+				"primary": "#fcc762",
+				"secondary": "#fcc762",
+				"scorebug": "#fcc762",
+				"nametag": "#fcc762"
+			}
+		}
+	},
+	{
+		"key": "2BF",
+		"acronym": "2BF",
+		"name": "2 Bombers 2 Friends",
+		"logo": "Logos/2 Bombers 2 Friends.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#8f3347",
+				"secondary": "#8f3347",
+				"scorebug": "#8f3347",
+				"nametag": "#8f3347"
+			},
+			"away": {
+				"primary": "#8f3347",
+				"secondary": "#8f3347",
+				"scorebug": "#8f3347",
+				"nametag": "#8f3347"
+			}
+		}
+	},
+	{
+		"key": "TIA",
+		"acronym": "TIA",
+		"name": "TIACBNMMAPPIMOTWL",
+		"logo": "Logos/TIACBNMMAPPIMOTWL.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#b86b6b",
+				"secondary": "#b86b6b",
+				"scorebug": "#b86b6b",
+				"nametag": "#b86b6b"
+			},
+			"away": {
+				"primary": "#b86b6b",
+				"secondary": "#b86b6b",
+				"scorebug": "#b86b6b",
+				"nametag": "#b86b6b"
+			}
+		}
+	},
+	{
+		"key": "ISF",
+		"acronym": "ISF",
+		"name": "ISF",
+		"logo": "Logos/ISF.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#FEE75C",
+				"secondary": "#FEE75C",
+				"scorebug": "#FEE75C",
+				"nametag": "#FEE75C"
+			},
+			"away": {
+				"primary": "#FEE75C",
+				"secondary": "#FEE75C",
+				"scorebug": "#FEE75C",
+				"nametag": "#FEE75C"
+			}
+		}
+	},
+	{
+		"key": "WW",
+		"acronym": "WW",
+		"name": "Waggadoogie Warriors",
+		"logo": "Logos/Waggadoogie Warriors.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#218aa3",
+				"secondary": "#218aa3",
+				"scorebug": "#218aa3",
+				"nametag": "#218aa3"
+			},
+			"away": {
+				"primary": "#218aa3",
+				"secondary": "#218aa3",
+				"scorebug": "#218aa3",
+				"nametag": "#218aa3"
+			}
+		}
+	},
+	{
+		"key": "F",
+		"acronym": "F",
+		"name": "Felipe",
+		"logo": "Logos/Felipe.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#ED4245",
+				"secondary": "#ED4245",
+				"scorebug": "#ED4245",
+				"nametag": "#ED4245"
+			},
+			"away": {
+				"primary": "#ED4245",
+				"secondary": "#ED4245",
+				"scorebug": "#ED4245",
+				"nametag": "#ED4245"
+			}
+		}
+	},
+	{
+		"key": "SF",
+		"acronym": "SF",
+		"name": "Shires Finest",
+		"logo": "Logos/Shires Finest.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#71368A",
+				"secondary": "#71368A",
+				"scorebug": "#71368A",
+				"nametag": "#71368A"
+			},
+			"away": {
+				"primary": "#71368A",
+				"secondary": "#71368A",
+				"scorebug": "#71368A",
+				"nametag": "#71368A"
+			}
+		}
+	},
+	{
+		"key": "SIL",
+		"acronym": "SIL",
+		"name": "Such Is Life",
+		"logo": "Logos/Such Is Life.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#dd73ff",
+				"secondary": "#dd73ff",
+				"scorebug": "#dd73ff",
+				"nametag": "#dd73ff"
+			},
+			"away": {
+				"primary": "#dd73ff",
+				"secondary": "#dd73ff",
+				"scorebug": "#dd73ff",
+				"nametag": "#dd73ff"
+			}
+		}
+	},
+	{
+		"key": "SGC",
+		"acronym": "SGC",
+		"name": "SG Clan",
+		"logo": "Logos/SG Clan.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#cf8e8e",
+				"secondary": "#cf8e8e",
+				"scorebug": "#cf8e8e",
+				"nametag": "#cf8e8e"
+			},
+			"away": {
+				"primary": "#cf8e8e",
+				"secondary": "#cf8e8e",
+				"scorebug": "#cf8e8e",
+				"nametag": "#cf8e8e"
+			}
+		}
+	},
+	{
+		"key": "BOS",
+		"acronym": "BOS",
+		"name": "Bucket Of Soup",
+		"logo": "Logos/Bucket Of Soup.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#e74c3c",
+				"secondary": "#e74c3c",
+				"scorebug": "#e74c3c",
+				"nametag": "#e74c3c"
+			},
+			"away": {
+				"primary": "#e74c3c",
+				"secondary": "#e74c3c",
+				"scorebug": "#e74c3c",
+				"nametag": "#e74c3c"
+			}
+		}
+	},
+	{
+		"key": "DS",
+		"acronym": "DS",
+		"name": "Dixen Spiders",
+		"logo": "Logos/Dixen Spiders.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#30cc71",
+				"secondary": "#30cc71",
+				"scorebug": "#30cc71",
+				"nametag": "#30cc71"
+			},
+			"away": {
+				"primary": "#30cc71",
+				"secondary": "#30cc71",
+				"scorebug": "#30cc71",
+				"nametag": "#30cc71"
+			}
+		}
+	},
+	{
+		"key": "BS",
+		"acronym": "BS",
+		"name": "Bananashire",
+		"logo": "Logos/Bananashire.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#f5e93c",
+				"secondary": "#f5e93c",
+				"scorebug": "#f5e93c",
+				"nametag": "#f5e93c"
+			},
+			"away": {
+				"primary": "#f5e93c",
+				"secondary": "#f5e93c",
+				"scorebug": "#f5e93c",
+				"nametag": "#f5e93c"
+			}
+		}
+	},
+	{
+		"key": "CBR",
+		"acronym": "CBR",
+		"name": "CBR Milk",
+		"logo": "Logos/CBR Milk.png",
+		"league": "Open",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#f6efef",
+				"secondary": "#f6efef",
+				"scorebug": "#f6efef",
+				"nametag": "#f6efef"
+			},
+			"away": {
+				"primary": "#f6efef",
+				"secondary": "#f6efef",
+				"scorebug": "#f6efef",
+				"nametag": "#f6efef"
+			}
+		}
+	},
+	{
+		"key": "LBJ",
+		"acronym": "LBJ",
+		"name": "LeBron James Hairline",
+		"logo": "Logos/LeBron James Hairline.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#f1c40f",
+				"secondary": "#f1c40f",
+				"scorebug": "#f1c40f",
+				"nametag": "#f1c40f"
+			},
+			"away": {
+				"primary": "#f1c40f",
+				"secondary": "#f1c40f",
+				"scorebug": "#f1c40f",
+				"nametag": "#f1c40f"
+			}
+		}
+	},
+	{
+		"key": "SPC",
+		"acronym": "SPC",
+		"name": "Space Chimps",
+		"logo": "Logos/Space Chimps.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#5353c2",
+				"secondary": "#5353c2",
+				"scorebug": "#5353c2",
+				"nametag": "#5353c2"
+			},
+			"away": {
+				"primary": "#5353c2",
+				"secondary": "#5353c2",
+				"scorebug": "#5353c2",
+				"nametag": "#5353c2"
+			}
+		}
+	},
+	{
+		"key": "LFT",
+		"acronym": "LFT",
+		"name": "The Leftovers",
+		"logo": "Logos/The Leftovers.png",
+		"league": "Intermediate",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#75cf0e",
+				"secondary": "#75cf0e",
+				"scorebug": "#75cf0e",
+				"nametag": "#75cf0e"
+			},
+			"away": {
+				"primary": "#75cf0e",
+				"secondary": "#75cf0e",
+				"scorebug": "#75cf0e",
+				"nametag": "#75cf0e"
+			}
+		}
+	},
+	{
+		"key": "BAR",
+		"acronym": "BAR",
+		"name": "The Barsuk",
+		"logo": "Logos/The Barsuk.png",
+		"league": "Pro",
+		"goal_horn": "",
+		"colors": {
+			"home": {
+				"primary": "#201e1b",
+				"secondary": "#201e1b",
+				"scorebug": "#201e1b",
+				"nametag": "#201e1b"
+			},
+			"away": {
+				"primary": "#201e1b",
+				"secondary": "#201e1b",
+				"scorebug": "#201e1b",
+				"nametag": "#201e1b"
+			}
+		}
+	}
+]
